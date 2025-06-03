@@ -1,0 +1,5 @@
+services:
+  - name: php-db-viewer
+    project: myproject
+    type: dockerfile
+    dockerfilePath: ./Dockerfile
